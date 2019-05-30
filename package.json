@@ -1,0 +1,10 @@
+{
+  "name": "TypeScript-100Knocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.0.3",
+    "typescript": "^3.5.1"
+  }
+}

@@ -1,1 +1,1 @@
-export declare function sum (...args: number[]): number;
+export declare function sum(...args: number[]): number;

@@ -1,1 +1,1 @@
-export declare function add(x: number, y:number): number
+export declare function add(x: number, y: number): number;
